@@ -15,7 +15,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gessicacss&layout=compact&hide_border=true&title_color=FFC0CB&text_color=FFDAB9&bg_color=0d1117" />
 </div> 
 
- ### Studying at the moment:
+ ### Technologies I'm working:
 <div align="center">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,3 +24,4 @@
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>  
+
