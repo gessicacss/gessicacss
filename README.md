@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Géssica
 - 👀 I’m interested in developing sites
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate on developing.
 ### Where to find me:
 <div align="center"> 
