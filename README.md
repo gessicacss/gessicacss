@@ -3,7 +3,8 @@
 
 ## Hi everyone, my name's Géssica Santos
 - 🎓 I have a degree in Information Systems.
-- 💻 Am Currently learning React, Node, MongoDB and PostgreSQL and soon to be studying Typescript on a fullstack developer bootcamp by Driven Education.
+- 💻 I'm studying on a fullstack developer bootcamp by [Driven Education](https://www.driven.com.br).
+- 📌 Currently learning React, Node, MongoDB and PostgreSQL and soon to be studying Typescript.
 - 📚 I'm interested in learning Next, Vite, Vue and Angular.
 - 📩 If you find any bugs in my code or if you have any feedback feel free to contact me!
 ### Where to find me:
