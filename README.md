@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/gessicacss/gessicacss/assets/111399040/8dd81a10-447b-402b-a2e6-541572d7dbd9" alt="profile-gif" style="width:35%; height:20%;"/>
+<img align="right" src="https://github.com/gessicacss/gessicacss/assets/111399040/e1a74373-acad-4314-9d30-df80e3a391e3" alt="profile-gif" style="width:35%; height:20%;"/>
 
 
 ## Hi everyone, my name's Géssica Santos
