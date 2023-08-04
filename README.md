@@ -2,7 +2,7 @@
 
 
 ## Hi everyone, my name's Géssica Santos
-- 🎓 I have a degree in Information Systems.
+- 🎓 I have a degree in Information Systems and I am currently getting a degree in Software Engineer on UNICSUL.
 - 💻 I'm studying on a fullstack developer bootcamp by [Driven Education](https://www.driven.com.br).
 - 📌 Currently learning React, Node, MongoDB and PostgreSQL and soon to be studying Typescript.
 - 📚 I'm interested in learning Next, Vite, Vue and Angular.
