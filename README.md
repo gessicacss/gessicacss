@@ -1,11 +1,12 @@
 <img align="right" src="https://github.com/gessicacss/gessicacss/assets/111399040/e1a74373-acad-4314-9d30-df80e3a391e3" alt="profile-gif" style="width:35%; height:20%;"/>
 
 
-## Hi everyone, my name's Géssica Santos
+## Hello there
 - 🎓 I have a degree in Information Systems and I am currently getting a degree in Software Engineer on Universidade Cruzeiro do Sul.
-- 💻 I'm studying to be a fullstack developer on [Driven Education](https://www.driven.com.br).
-- 📌 Currently learning React, Node, MongoDB and PostgreSQL and Typescript.
+- 💻 I'm studying to become a Full Stack developer.
+- 📌 Currently learning tests, Nest.js and Typescript.
 - 📚 I'm interested in learning Next, Vite, Vue and Angular.
+- 🐈 Fun fact about me: I adopted a cat but my mom stole him from me and told me he's my brother now.
 - 📩 If you find any bugs in my code or if you have any feedback feel free to contact me!
 ### Where to find me:
 <div align="left"> 
