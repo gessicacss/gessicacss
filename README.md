@@ -6,11 +6,10 @@
 - 💻 I'm currently working on my [Password Manager API](https://github.com/gessicacss/Password-Manager).
 - 📌 Currently learning tests, Nest.js and Typescript.
 - 📚 I'm interested in learning Next, Vite, Vue and Angular.
-- 🐈 Fun fact about me: I adopted a cat but my mom stole him from me and told me he's my brother now.
+- 🐈 Fun fact about me: I adopted a cat but my mom stole him from me and told me he's now my brother.
 - 📩 If you find any bugs in my code or if you have any feedback feel free to contact me!
 ### Where to find me:
 <div align="center"> 
-<a href="https://instagram.com/c.arois" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:santos.gessicacarolina@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/santos-gessica/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
