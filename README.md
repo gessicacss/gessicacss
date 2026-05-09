@@ -2,7 +2,7 @@
 
 
 ## Hello there, I'm Géssica a Full Stack developer!
-- 🎓 I have a degree in Information Systems and I am currently pursuing a degree in Software Engineering at Universidade Cruzeiro do Sul.
+- 🎓 I have a degree in Information Systems.
 - 💻 I'm currently working on my [Password Manager API](https://github.com/gessicacss/Password-Manager).
 - 📌 Currently learning tests, Nest.js and Typescript.
 - 📚 I'm interested in learning Next, Vite, Vue and Angular.
